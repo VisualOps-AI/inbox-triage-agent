@@ -34,7 +34,21 @@ Autonomous email responders are risky — a wrong reply to a lead, a client, or 
 | `/approvals` | Approve or reject pending drafts (Pending / Approved / Rejected) |
 | `/audit` | Full chronological trail of every decision |
 
-> _Screenshots: drop images into `docs/` and reference them here, e.g. `![Inbox](docs/inbox.png)`._
+### Overview
+
+![Overview dashboard](docs/overview.png)
+
+### Inbox — classify and draft
+
+![Inbox](docs/inbox.png)
+
+### Approvals — human-in-the-loop gate
+
+![Approval dashboard](docs/approvals.png)
+
+### Audit log — every decision recorded
+
+![Audit log](docs/audit.png)
 
 ---
 
